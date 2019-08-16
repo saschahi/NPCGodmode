@@ -1,0 +1,4 @@
+displayName = NPC Protector
+author = Saschahi
+version = 0.1
+side = Server

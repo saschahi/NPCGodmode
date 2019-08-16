@@ -1,0 +1,9 @@
+Makes NPCs Immune to damage with the exception of the Guide and Clothier
+
+ToDo:
+- Add an on/off Switch ingame somehow (maybe work with HEROsMod)
+- Add a way to individually make NPCs invulnerable
+
+V0.1
+- Make the Mod Operable
+- Add the Guide and the Clothier as exceptions
