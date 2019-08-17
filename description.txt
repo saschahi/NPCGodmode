@@ -1,9 +1,21 @@
-Makes NPCs Immune to damage with the exception of the Guide and Clothier
+This Mod can make Town NPCs of your choosing invulnerable!
+
+Go into "YOURUSERFOLDER\Dokuments\My Games\Terraria\ModLoader\Mod Configs"
+and open "NPC Control.json" with a Texteditor of your Choice to Configure this mod.
+
+If you choose to add more mods, this mod will automatically put the new Town-NPCs into the config-list.
+
+And don't worry. the Config won't break if you remove a Mod that adds a Town-NPC
 
 ToDo:
-- Add an on/off Switch ingame somehow (maybe work with HEROsMod)
-- Add a way to individually make NPCs invulnerable
+- Add an on/off Switch for NPC-Invulnerability ingame somehow (maybe work with HEROsMod)
+- Tidy up code and Put some Failsafes in
 
 V0.1
 - Make the Mod Operable
 - Add the Guide and the Clothier as exceptions
+
+V0.2.0
+- Made the Mod Actually make the NPCs invincible (for some reason it only made their HP bar disappear before)
+- There is now a config to activate/deactivate invincibility for each TownNPC
+- Made it 95% compatible with other mods and their Town NPCs! (tested with a few, it's possible some mods can break this mod)
